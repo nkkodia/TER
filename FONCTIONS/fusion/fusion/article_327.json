@@ -1,0 +1,15 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000954",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000954",
+"abstract": "",
+"title": "M3A : Une plateforme d'ingénierie de maintenance assistée par apprentissage automatique",
+"placeAut": "[{u'country': u'Alg\xe9rie', u'place': u'Oran', u'location': {u'lat': 35.6976541, u'lon': -0.6337376000000177}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "327",
+"authors": "[u'Abdelkader Benameur', u'Baghdad Atmani']"
+}

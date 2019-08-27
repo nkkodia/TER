@@ -1,0 +1,31 @@
+
+Web sémantique
+Support Vector
+Vector Machine
+Time Warping
+Usage Mining
+Analyse Formelle
+Concepts Formels
+Analyse Factorielle
+Analyse Statistique
+Analytical Processing
+Analyse Relationnelle
+Analyse Sémantique
+Clustering Collaboratif
+Cube Fermé
+Données Symboliques
+Generative Topographic
+Grande Infrastructure
+Granulaire consistant
+Graphics Processing
+Graph Language
+Graph Repository
+Hyperspace Analogue
+Symbolic Aggregate
+Symbolic Induction
+SYntaxe SEmantique
+Vecteur Machine
+Visual Alignment
+Visual Clustering
+Visual Data
+

@@ -1,0 +1,15 @@
+{
+"year": "2007",
+"metaSession": "9",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001459",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001459",
+"abstract": "Dans cet article, nous nous intéressons à Fuzzy C-Means (FCM), une technique très connue pour la classification floue. Nous proposons un algorithme efficace basé sur la programmation DC (Difference of Convexe functions) et DCA (DC Algorithm) pour résoudre ce problème. Les expériences numériques comparatives avec l'algorithme standard FCM sur les données réelles montrent la robustesse, la performance de cet nouvel algorithme DCA et sa supériorité par rapport à FCM.",
+"title": "Une nouvelle approche de la programmation DC et DCA pour la classification floue",
+"placeAut": "[{u'country': u'France', u'place': u'Mont-Saint-Aignan', u'location': {u'lat': 49.459778, u'lon': 1.0797979999999825}}, {u'country': u'France', u'place': u'Metz', u'location': {u'lat': 49.1193089, u'lon': 6.1757155999999895}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "754",
+"authors": "[u'Le Thi Hoai An', u'Le Hoai Minh', u'Pham Dinh Tao']"
+}

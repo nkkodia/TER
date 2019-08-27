@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000290",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000290",
+"abstract": "",
+"title": "Entrepôt de Données Spatiales basé sur GML : Politique  de Gestion de Cache",
+"placeAut": "[{u'country': u'France', u'place': u'Versailles', u'location': {u'lat': 48.801408, u'lon': 2.1301220000000285}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "958",
+"authors": "[u'Lionel Savary', u'Georges Gardarin', u'Karine Zeitouni']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001397",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001397",
+"abstract": "",
+"title": "Analyse de séquences d'événements avec TraMineR",
+"placeAut": "[{u'country': u'Suisse', u'place': u'Gen\xe8ve', u'location': {u'lat': 46.1983922, u'lon': 6.142296100000067}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "383",
+"authors": "[u'Nicolas S. M\xfcller', u'Matthias Studer', u'Alexis Gabadinho', u'Gilbert Ritschard']"
+}

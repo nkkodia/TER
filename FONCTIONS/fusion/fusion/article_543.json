@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000793",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000793",
+"abstract": "L'analyse formelle de concepts (AFC, Ganter etWille (1999)) est uneméthode pertinente d'extraction de connaissances à partir de données complexesd'expression de gènes (Blachon et al. (2007), Motameny et al. (2008)). Dans cepapier, nous proposons d'extraire des groupes de gènes partageant un compor-tement similaire montrant des changements significatifs à travers divers envi-ronnements biologiques, servant d'hypothèses à la fonction des gènes.",
+"title": "L'Analyse Formelle de Concepts pour l'Extraction de Connaissances dans les Données d'Expression de Gènes",
+"placeAut": "[{u'country': u'Spain', u'place': u'Barcelona', u'location': {u'lat': 41.297445, u'lon': 2.083294099999989}}, {u'country': u'Spain', u'place': u'Girona', u'location': {u'lat': 41.9794005, u'lon': 2.821426400000064}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "543",
+"authors": "[u'Mehdi Kaytoue-Uberall', u'S\xe9bastien Duplessis', u'Amedeo Napoli']"
+}

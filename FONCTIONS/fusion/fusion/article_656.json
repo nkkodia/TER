@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000585",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000585",
+"abstract": "Nous proposons dans ce papier un nouveau système immunitaire artificiel (SIA) appelé système NK, pour la détection de comportement du soi non soi avec une approche non supervisée basée sur le mécanisme de cellule NK (Naturel Killer). Dans ce papier, le système NK est appliqué à la détection de fraude en téléphonie mobile.",
+"title": "Un nouveau système immunitaire artificiel pour l'apprentissage non supervisé",
+"placeAut": "[{u'country': u'Maroc', u'place': u'Rabat', u'location': {u'lat': 33.9715904, u'lon': -6.849812899999961}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "656",
+"authors": "[u'Rachid Elmeziane', u'Ilham Berrada', u'Ismail Kassou']"
+}

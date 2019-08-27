@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001155",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001155",
+"abstract": "Lorsqu'on désire contacter un client pour lui proposer un produit oncalcule au préalable la probabilité qu'il achètera ce produit. Cette probabilitéest calculée à l'aide d'un modèle prédictif pour un ensemble de clients. Le servicemarketing contacte ensuite ceux ayant la plus forte probabilité d'acheter leproduit. En parallèle, et avant le contact commercial, il peut être intéressant deréaliser une typologie des clients qui seront contactés. L'idée étant de proposerdes campagnes différenciées par groupe de clients. Cet article montre commentil est possible de contraindre la typologie, réalisée à l'aide des k-moyennes, àrespecter la proximité des clients vis-à-vis de leur score d'appétence.",
+"title": "K-moyennes contraintes par un classifieur Application à la personnalisation de scores de campagnes",
+"placeAut": "[{u'country': u'France', u'place': u'Lannion', u'location': {u'lat': 48.732084, u'lon': -3.4591440000000375}}, {u'country': u'France', u'place': u'Kremlin Bic\xeatre', u'location': {u'lat': 48.8097463, u'lon': 2.3569965000000366}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "244",
+"authors": "[u'Vincent Lemaire', u'Nicolas Creff', u'Fabrice Cl\xe9rot']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001457",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001457",
+"abstract": "Dans ce papier, nous présentons une approche de recherche sémantiquebasée sur les ontologies modulaires et le raisonnement à base de cas(RaPC). Un cas représente l'ensemble des requêtes similaires associées à leursrésultats pertinents. Les ontologies modulaires sont utilisées pour représenteret indexer les cas qui sont construits sur la base des requêtes antérieures et lesrésultats pertinents sélectionnés par les utilisateurs. La similarité à based'ontologies est utilisée pour retrouver les cas similaires à la requête utilisateuret pour fournir à celui-ci des propositions de reformulation de requêtes correspondantsà son besoin. La principale contribution de ce travail réside dans l'utilisationd'un mécanisme de RaPC et une représentation ontologique à deuxfins: l'amélioration de la recherche sémantique et l'enrichissement d'ontologiesà partir de cas. L'expérimentation de l'approche proposée montre que la précisionet le rappel des résultats se sont nettement améliorés.",
+"title": "Recherche sémantique sur le Web basée sur l'ontologie Modulaire et le raisonnement à base de cas",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Manouba', u'location': {u'lat': 36.807778, u'lon': 10.101110999999946}}, {u'country': u'Paris', u'place': u'Chatenay-Malabry', u'location': {u'lat': 48.8074637, u'lon': 2.2944142000000056}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "457",
+"authors": "[u'Nesrine Ben Mustapha', u'Hajer Baazaoui Zghal', u'Marie-Aude Aufaure', u'Henda Ben Gh\xe9zala']"
+}

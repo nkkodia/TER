@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "7",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001290",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001290",
+"abstract": "Nous proposons dans cet article une première approche qui consisteà exploiter les réseaux sociaux afin de faciliter la composition de services parles utilisateurs finaux. Nous introduisons un Framework, nommé Social Composer(SoCo), qui implémente cette approche. SoCo fournit à l'utilisateur desrecommandations dynamiques de services basées entre autre sur le réseau socialde l'utilisateur qui est construit implicitement à partir des interactions entre lesutilisateurs, les services, les différentes compositions opérées par les membresdu réseau social, ainsi que le réseau social global.",
+"title": "Composition de ServicesWeb Basée sur les Réseau Sociaux",
+"placeAut": "[{u'country': u'France', u'place': u'Nozay', u'location': {u'lat': 47.564751, u'lon': -1.6269159999999374}}, {u'country': u'France', u'place': u'Evry', u'location': {u'lat': 48.629828, u'lon': 2.4417819999999892}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "409",
+"authors": "[u'Abderrahmane Maaradji', u'Hakim Hacid', u'Johann Daigremont', u'No\xebl Crespi']"
+}

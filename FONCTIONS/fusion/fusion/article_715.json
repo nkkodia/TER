@@ -1,0 +1,15 @@
+{
+"year": "2007",
+"metaSession": "9",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001363",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001363",
+"abstract": "Nous utilisons un algorithme d'amorce mutuelle (Riloff et Jones 99), entre des couples de termes d'une relation et des patrons de phrase. À partir de couples d'amorce, le système génère des listes de patrons qui sont ensuite enrichies de façon semi-supervisée, puis utilisées pour trouver de nouveaux couples. Ces couples sont à leur tour réutilisés pour générer, par itérations successives, de nouveaux patrons. L'originalité de l'étude réside dans l'interprétation du rappel, estimé comme la couverture d'un patron sur l'ensemble des exemples auxquels il s'applique",
+"title": "Génération et enrichissement automatique de listes de patrons de phrases pour les moteurs de questions-réponses",
+"placeAut": "[{u'country': u'France', u'place': u'Avignon', u'location': {u'lat': 43.94931700000001, u'lon': 4.805527999999981}}, {u'country': u'France', u'place': u'G\xe9menos', u'location': {u'lat': 43.295388, u'lon': 5.628111999999987}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "715",
+"authors": "[u'C\xe9dric Vidrequin', u'Juan-Manuel Torres-Moreno', u'Jean-Jacques Schneider', u'Marc El-B\xe8ze']"
+}

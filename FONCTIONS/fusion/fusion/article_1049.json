@@ -1,0 +1,15 @@
+{
+"year": "2004",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001167",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001167",
+"abstract": "",
+"title": "Extraction de connaissances grâce à un outil de text-mining. Application à la veille informationnelle dans le cadre policier",
+"placeAut": "[{u'country': u'Belgique', u'place': u'Namur', u'location': {u'lat': 50.4673883, u'lon': 4.871985399999971}}, {u'country': u'Belgique', u'place': u'Bruxelles', u'location': {u'lat': 50.8503396, u'lon': 4.351710300000036}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1049",
+"authors": "[u'Marc Borry', u'Annick Castiaux']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000565",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000565",
+"abstract": "L'annotation d'une protéine consiste, entre autres, à lui attribuer une classe dans une hiérarchie fonctionnelle. Celle-ci permet d'organiser les connaissances biologiques et d'utiliser un vocabulaire contrôlé. Pour estimer la pertinence des annotations, des mesures telles que la précision, le rappel, la spécificité et le Fscore sont utilisées. Cependant ces mesures ne sont pas toujours bien adaptées à l'évaluation de données hiérarchiques, car elles ne permettent pas de distinguer les erreurs faites aux différents niveaux de la hiérarchie. Nous proposons ici une représentation formelle pour les différents types d'erreurs adaptés à notre problème.",
+"title": "Mesures hiérarchiques pondérées pour l'évaluation d'un système semi-automatique d'annotation de génomes utilisant des arbres de décision",
+"placeAut": "[{u'country': u'France', u'place': u'Orsay', u'location': {u'lat': 48.697161, u'lon': 2.1896169999999984}}, {u'country': u'France', u'place': u'Jouy-en-Josas', u'location': {u'lat': 48.76454500000001, u'lon': 2.169006999999965}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "624",
+"authors": "[u'Lucie Gentils', u'J\xe9r\xf4me Az\xe9', u'Claire Toffano-Nioche', u'Valentin Loux', u'Anne Poupon', u'Jean-Fran\xe7ois Gibrat', u'Christine Froidevaux']"
+}

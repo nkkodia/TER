@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000396",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000396",
+"abstract": "Un certain nombre de travaux en fouille de données se sont intéressés à l'extraction de motifs et à la génération de règles d'association à partir de ces motifs. Cependant, ces travaux se sont jusqu'à présent, centrés sur la notion de motifs fréquents. Le premier algorithme à avoir permis l'extraction de tous les motifs fréquents est Apriori mais d'autres ont été mis au point par la suite, certains n'extrayant que des sous-ensembles de ces motifs (motifs fermés fréquents, motifs fréquents maximaux, générateurs minimaux). Dans cet article, nous nous intéressons aux motifs rares qui peuvent également véhiculer des informations importantes. Les motifs rares correspondent au complémentaire des motifs fréquents. A notre connaissance, ces motifs n'ont pas encore été étudiés, malgré l'intérêt que certains domaines pourraient tirer de ce genre de modèle. C'est en particulier le cas de la médecine, où par exemple, il est important pour un praticien de repérer les symptômes non usuels ou les effets indésirables exceptionnels qui peuvent se déclarer chez un patient pour une pathologie ou un traitement donné.",
+"title": "Vers l'extraction de motifs rares",
+"placeAut": "[{u'country': u'France', u'place': u'Vandoeuvre-l\xe8s-Nancy', u'location': {u'lat': 48.66111799999999, u'lon': 6.173760000000016}}, {u'country': u'France', u'place': u'Nancy', u'location': {u'lat': 48.692054, u'lon': 6.184416999999939}}, {u'country': u'France', u'place': u'Bruz', u'location': {u'lat': 48.024538, u'lon': -1.7471480000000383}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "865",
+"authors": "[u'Laszlo Szathmary', u'Sandy Maumus', u'Pierre Petronin', u'Yannick Toussaint', u'Amedeo Napoli']"
+}

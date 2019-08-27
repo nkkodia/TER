@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000802",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000802",
+"abstract": "",
+"title": "Online and Adaptive Anomaly Detection: Detecting Intrusions in Unlabelled Audit Data Streams",
+"placeAut": "[{u'country': u'France', u'place': u'Rennes', u'location': {u'lat': 48.117266, u'lon': -1.6777925999999752}}, {u'country': u'France', u'place': u'Sophia Antipolis', u'location': {u'lat': 43.6163539, u'lon': 7.055221800000027}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "549",
+"authors": "[u'Wei Wang    ', u'Thomas Guyet', u'Rene Quiniou', u'Marie-Odile Cordier', u'Florent Masseglia']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001181",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001181",
+"abstract": "Dans cet article nous proposons un nouvel algorithme pour la réorganisationhiérarchique des cubes OLAP (On-Line Analytical Processing) ayantpour objectif d'améliorer leur visualisation. Cet algorithme se caractérise par lefait qu'il peut traiter des dimensions organisées hiérarchiquement et optimiserconjointement les dimensions du cube, contrairement aux autres approches. Ilutilise un algorithme génétique qui réorganise des arbres n-aires quelconques. Ila été intégré dans une interface OLAP puis testé en comparaison avec d'autresapproches de réorganisation, et fournit des résultats très positifs. A ce titre,nous avons également généralisé l'algorithme heuristique classique BEA (bondenergy algorithm) au cas de hiérarchies OLAP. Enfin, notre approche a été évaluéepar des utilisateurs et les résultats soulignent l'intérêt de la réorganisationdans des exemples de tâches à résoudre pour OLAP.",
+"title": "Réorganisation hiérarchique de visualisations dans OLAP",
+"placeAut": "[{u'country': u'France', u'place': u'Tours', u'location': {u'lat': 47.394144, u'lon': 0.6848400000000083}}, {u'country': u'France', u'place': u'Roubaix', u'location': {u'lat': 50.6927049, u'lon': 3.177846999999929}}, {u'country': u'France', u'place': u'Neuilly-sur-Seine', u'location': {u'lat': 48.884831, u'lon': 2.268509999999992}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "254",
+"authors": "[u'S\xe9bastien Lafon', u'Fatma Bouali', u'Christiane Guinot', u'Gilles Venturini']"
+}

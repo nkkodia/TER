@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001396",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001396",
+"abstract": "",
+"title": "RSS Merger",
+"placeAut": "[{u'country': u'France', u'place': u'Dijon', u'location': {u'lat': 47.322047, u'lon': 5.041479999999979}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "464",
+"authors": "[u'Fekade Getahun', u'Richard Chbeir']"
+}

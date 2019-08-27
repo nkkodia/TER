@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000814",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000814",
+"abstract": "",
+"title": "TraMineR: une librairie R pour l'analyse de données séquentielles",
+"placeAut": "[{u'country': u'Suisse', u'place': u'Gen\xe8ve', u'location': {u'lat': 46.1983922, u'lon': 6.142296100000067}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "560",
+"authors": "[u'Alexis Gabadinho', u'Nicolas S. M\xfcller', u'Gilbert Ritschard', u'Matthias Studer']"
+}

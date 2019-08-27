@@ -1,0 +1,15 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000952",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000952",
+"abstract": "",
+"title": "Parameter-free association rule mining with yacaree",
+"placeAut": "[{u'country': u'Spain', u'place': u'Santander', u'location': {u'lat': 43.46230569999999, u'lon': -3.8099803000000065}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "344",
+"authors": "[u'Jos\xe9 L Balcazar ']"
+}

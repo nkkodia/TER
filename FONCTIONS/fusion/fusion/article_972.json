@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000288",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000288",
+"abstract": "",
+"title": "Fouille de Données Relationnelles dans les SGBD",
+"placeAut": "[{u'country': u'France', u'place': u'Bron', u'location': {u'lat': 45.73331599999999, u'lon': 4.9119269999999915}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "972",
+"authors": "[u'C\xe9dric Udr\xe9a', u'Fadila Bentayeb']"
+}

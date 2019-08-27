@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000822",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000822",
+"abstract": "",
+"title": "DBFrequentQueries : Extraction de requêtes fréquentes",
+"placeAut": "[{u'country': u'Indon\xe9sie', u'place': u'Bali', u'location': {u'lat': -8.4095178, u'lon': 115.18891600000006}}, {u'country': u'France', u'place': u'Montpellier', u'location': {u'lat': 43.610769, u'lon': 3.8767159999999876}}, {u'country': u'France', u'place': u'Cergy-Pontoise', u'location': {u'lat': 49.047117, u'lon': 2.095950000000016}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "515",
+"authors": "[u'Lucie Copin', u'Nicolas Pecheur', u'Anne Laurent', u'Yudi Augusta', u'Budi Sentana', u'Dominique Laurent', u'Tao-Yuan Jen']"
+}

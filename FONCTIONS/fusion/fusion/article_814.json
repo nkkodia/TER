@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000356",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000356",
+"abstract": "",
+"title": "Extraction multilingue de termes à partir de leur structure morphologique",
+"placeAut": "[{u'country': u'France', u'place': u'La Tronche', u'location': {u'lat': 45.205168, u'lon': 5.73780499999998}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "814",
+"authors": "[u'Delphine Bernhard']"
+}

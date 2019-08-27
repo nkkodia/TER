@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000445",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000445",
+"abstract": "",
+"title": "Système d'aide à la décision pour la surveillance de la qualité de l'air intérieur",
+"placeAut": "[{u'country': u'France', u'place': u'Marne-La-Vall\xe9e', u'location': {u'lat': 48.859276, u'lon': 2.598504999999932}}, {u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "849",
+"authors": "[u'Zoulikha Heddadji', u'Nicole Vincent', u'S\xe9verine Kirchner', u'Georges Stamon']"
+}

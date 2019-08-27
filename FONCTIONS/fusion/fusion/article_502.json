@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000794",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000794",
+"abstract": "",
+"title": "Assessing the uncertainty in knn Data Fusion",
+"placeAut": "[{u'country': u'Spain', u'place': u'Barcelona', u'location': {u'lat': 41.297445, u'lon': 2.083294099999989}}, {u'country': u'Spain', u'place': u'Girona', u'location': {u'lat': 41.9794005, u'lon': 2.821426400000064}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "502",
+"authors": "[u'Tom\xe0s Aluja-Banet', u'Josep Daunis-i-Estadella', u'Enric Ripoll']"
+}

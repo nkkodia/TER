@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001262",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001262",
+"abstract": "",
+"title": "Combiner approche logique et numérique pour la réconciliation de données et l'alignement d'ontologies",
+"placeAut": "[{u'country': u'France', u'place': u'Grenoble', u'location': {u'lat': 45.188529, u'lon': 5.724523999999974}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "405",
+"authors": "[u'Marie-Christine Rousset']"
+}

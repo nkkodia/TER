@@ -1,0 +1,15 @@
+{
+"year": "2013",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001837",
+"pdfarticle": "",
+"abstract": "Les graphes orientés acycliques attribués peuvent être utilisés dans beaucoup de domaines applicatif. Dans ce papier, nous étudions un nouveau domaine de motif pour permettre leur analyse : les chemins pondérés fréquents. Nous proposons en conséquence des contraintes primitives permettant d'évaluer leur pertinence (par exemple, les contraintes de fréquence et de compacité), et un algorithme extrayant ces solutions. Nous aboutissons à une représentation condensée dont l'efficacité et le passage à l'échelle sont étudiés empiriquement.",
+"title": "Extraction de motifs condensés dans un unique graphe orienté acyclique attribué",
+"placeAut": "[{u'country': u'Nouvelle Caledonie', u'place': u'Noum\xe9a', u'location': {u'lat': -22.2758, u'lon': 166.45799999999997}}, {u'country': u'France', u'place': u'Nice', u'location': {u'lat': 43.7101728, u'lon': 7.261953199999994}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.604652, u'lon': 1.444209}",
+"place": "Toulouse",
+"booktitle": "EGC",
+"idArt": "176",
+"authors": "[u'J\xe9r\xe9my Sanhes', u'Fr\xe9d\xe9ric Flouvat', u'Claude Pasquier', u'Nazha Selmaoui-Folcher']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001468",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001468",
+"abstract": "",
+"title": "Prédiction de séries temporelles et applications à l'analyse de séquences vidéo",
+"placeAut": "[{u'country': u'France', u'place': u'Lille', u'location': {u'lat': 50.62925, u'lon': 3.057256000000052}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "451",
+"authors": "[u'R\xe9mi Auguste', u'Ahmed El Ghini', u'Ioan Marius Bilasco', u'Chabane Djeraba']"
+}

@@ -1,0 +1,2 @@
+noms_propres:[nbmotsBase = 1570, nbmotsTri_1 = 1349 ]
+noms_composes:[nbmotsBase = 10084, nbmotsTri_1 = ]

@@ -1,0 +1,15 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000977",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000977",
+"abstract": "",
+"title": "Data stream summarization by on-line histograms clustering",
+"placeAut": "[{u'country': u'Italie', u'place': u'Caserta', u'location': {u'lat': 41.0723484, u'lon': 14.33113370000001}}, {u'country': u'Italy', u'place': u'Napoli', u'location': {u'lat': 40.8517746, u'lon': 14.268124400000033}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "302",
+"authors": "[u'Antonio Balzanella', u'Lidia Rivoli', u'Rosanna Verde']"
+}

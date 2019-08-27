@@ -1,0 +1,15 @@
+{
+"year": "2004",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001030",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001030",
+"abstract": "",
+"title": "Positionnement multidimensionnel et partitionnement pour la visualisation de données multivariées",
+"placeAut": "[{u'country': u'Pologne', u'place': u'Toru?', u'location': {u'lat': 53.0137902, u'lon': 18.59844369999996}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1079",
+"authors": "[u'Antoine Naud']"
+}

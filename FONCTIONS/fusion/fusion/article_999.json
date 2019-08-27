@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000365",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000365",
+"abstract": "",
+"title": "RASMA : Une approche Multi-Agent pour l'amélioration de l'Algorithme des Règles d'Associations Spatiales",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Tunis', u'location': {u'lat': 36.8064948, u'lon': 10.181531599999971}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "999",
+"authors": "[u'Hajer Baazaoui Zghal', u'Radhia Ben Hamed', u'Sami Faiz', u'Henda Ben Gh\xe9zala']"
+}

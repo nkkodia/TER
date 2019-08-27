@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001230",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001230",
+"abstract": "Le groupe de recherche Hypercarte propose HyperSmooth,un nouvel outil cartographique pour l'analyse spatiale de phénomènessociaux économiques mettant en oeuvre une méthode de calcul depotentiel. L'objectif est de pouvoir représenter de façon continue et enchangeant d'échelle d'analyse une information statistiqueéchantillonnée sur toutes sortes de maillages, réguliers ou non. Le défitechnologique est de fournir un outil accessible sur le Web, interactifet rapide, ceci malgré le coût élevé du calcul, et qui assure laconfidentialité des données. Nous présentons notre solution basée surune architecture client serveur : le serveur calcule les cartes depotentiel en utilisant des techniques d'optimisation particulières, alorsque le client est en charge de la visualisation et du paramétrage del'analyse, et les deux parties communiquent via un protocole Web.",
+"title": "HyperSmooth : calcul et visualisation de cartes de potentiel interactives",
+"placeAut": "[{u'country': u'France', u'place': u"Saint Martin d'H\xe8res", u'location': {u'lat': 45.165133, u'lon': 5.767761000000064}}, {u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC",
+"idArt": "611",
+"authors": "[u'Christine Plumejeaud', u'Jean-Marc Vincent', u'Claude Grasland', u'J\xe9r\xf4me Gensel', u'H\xe9l\xe8ne Mathian', u'Serge Guelton', u'Jo\xebl Boulier']"
+}

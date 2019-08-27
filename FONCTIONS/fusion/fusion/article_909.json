@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000208",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000208",
+"abstract": "Les recherches en psychologie ont permis d'établir une relation entreémotions et prise de décision. La prise en compte de caractéristiques humainestelles que les émotions et la personnalité dans les processus d'interaction entreagents est au centre de ce travail. Il s'inscrit dans le cadre du projet GRACE(Groupes Relationnels d'Agents Collaborateurs Emotionnels)/ RIAM (Réseaudes Industries, de l'Audiovisuel et du Multimédia) .",
+"title": "Modélisation des connaissances émotionnelles par les cartes cognitives floues",
+"placeAut": "[{u'country': u'France', u'place': u'Carquefou', u'location': {u'lat': 47.29624099999999, u'lon': -1.4868119999999863}}, {u'country': u'France', u'place': u'Nantes', u'location': {u'lat': 47.218371, u'lon': -1.553621000000021}}, {u'country': u'France', u'place': u'Brest', u'location': {u'lat': 48.390394, u'lon': -4.4860760000000255}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "909",
+"authors": "[u"Nathalie Ronarc'h", u'Ga\xeble Rozec', u'Fabrice Guillet', u'Alexis N\xe9d\xe9lec', u'Serge Baquedano', u'Vincent Philipp\xe9']"
+}

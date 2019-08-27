@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000596",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000596",
+"abstract": "Dans cet article, nous proposons la méthode des SOM (cartes auto-organisatrices de Kohonen) pour la classification non supervisée de documents textuels basés sur les n-grammes. La même méthode basée sur les synsets de WordNet comme termes pour la représentation des documents est étudiée par la suite. Ces combinaisons sont évaluées et comparées.",
+"title": "SOM pour la Classification Automatique Non supervisée de Documents Textuels basés sur Wordnet",
+"placeAut": "[{u'country': u'Alg\xe9rie', u'place': u'Sidi bel Abbes', u'location': {u'lat': 35.2, u'lon': -0.6413890000000038}}, {u'country': u'France', u'place': u'La Tronche', u'location': {u'lat': 45.205168, u'lon': 5.73780499999998}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "647",
+"authors": "[u'Mimoun Malki', u'Abdelmalek Amine', u'Zakaria Elberrichi', u'Michel Simonet']"
+}

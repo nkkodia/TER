@@ -1,0 +1,15 @@
+{
+"year": "2011",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000967",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000967",
+"abstract": "",
+"title": "Construction d'une Ontologie d'aide au renforcement de la sécurité des systèmes de transport automatisés.",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Manouba', u'location': {u'lat': 36.807778, u'lon': 10.101110999999946}}, {u'country': u'France', u'place': u'Arcueil', u'location': {u'lat': 48.80486, u'lon': 2.3349550000000363}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.390394, u'lon': -4.486076}",
+"place": "Brest",
+"booktitle": "EGC",
+"idArt": "300",
+"authors": "[u'Lassa\xe2d Mejri', u'Ahmed Maalel', u'Habib Hadj Mabrouk', u'Henda Ben Ghezela Hadjami']"
+}

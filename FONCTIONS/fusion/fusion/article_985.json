@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000283",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000283",
+"abstract": "L'extraction de toutes les requêtes fréquentes dans une base de données relationnelle est un problème di±cile, même si l'on ne considère que des requêtes conjonctives. Nous montrons que ce problème devient possible dans le cas suivant : le schéma de la base est un schéma en étoile, et les données satisfont un ensemble de dépendances fonctionnelles et de contraintes référentielles. De plus, les schémas en étoile sont appropriés pour les entrepôts de données et que les dépendances fonctionnelles et les contraintes référentielles sont les contraintes les plus usuelles dans les bases de données. En considérant le modèle des instances faibles, nous montrons que les requêtes fréquentes exprimées par sélection-projection peuvent être extraites par des algorithmes de type Apriori.",
+"title": "Mining Frequent Queries in Star Schemes",
+"placeAut": "[{u'country': u'France', u'place': u'Cergy-Pontoise', u'location': {u'lat': 49.047117, u'lon': 2.095950000000016}}, {u'country': u'France', u'place': u'Orsay', u'location': {u'lat': 48.697161, u'lon': 2.1896169999999984}}, {u'country': u'S\xe9n\xe9gal', u'place': u'Saint-Louis', u'location': {u'lat': 16.049722, u'lon': -16.46083299999998}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "EGC",
+"idArt": "985",
+"authors": "[u'Tao-Yuan Jen', u'Dominique Laurent', u'Nicolas Spyratos', u'Oumar Sy']"
+}

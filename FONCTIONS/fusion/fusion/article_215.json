@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001166",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001166",
+"abstract": "Le biclustering de données numériques est devenu depuis le début desannées 2000 une tâche importante d'analyse de données, particulièrement pourl'étude de données biologiques d'expression de gènes. Un bicluster représenteune association forte entre un ensemble d'objets et un ensemble d'attributs dansune table de données numériques. Les biclusters de valeurs similaires peuventêtre vus comme des sous-tables maximales de valeurs proches. Seules quelquesméthodes se sont penchées sur une extraction complète (i.e. non heuristique),exacte et non redondante de tels motifs, qui reste toujours un problème difficile,tandis qu'aucun cadre théorique fort ne permet leur caractérisation. Dans le présentarticle, nous introduisons des liens importants avec l'analyse formelle deconcepts. Plus particulièrement, nous montrons de manière originale que l'analysede concepts triadiques (TCA) propose un cadre mathématique intéressant etpuissant pour le biclustering de données numériques. De cette manière, les algorithmesexistants de la TCA, qui s'appliquent habituellement à des données binaires,peuvent être utilisés (directement ou après quelques modifications) aprèsun prétraitement des données pour l'extraction désirée.",
+"title": "Caractérisation et extraction de biclusters de valeurs similaires avec l'analyse de concepts triadiques",
+"placeAut": "[{u'country': u'Br\xe9sil', u'place': u'Belo Horizonte', u'location': {u'lat': -19.9166813, u'lon': -43.9344931}}, {u'country': u'Russie', u'place': u'Moscou', u'location': {u'lat': 55.755826, u'lon': 37.6173}}, {u'country': u'France', u'place': u'Nancy', u'location': {u'lat': 48.692054, u'lon': 6.184416999999939}}, {u'country': u'R\xe9publique Tch\xe8que', u'place': u'Olomouc', u'location': {u'lat': 49.593778, u'lon': 17.25087869999993}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "215",
+"authors": "[u'Mehdi Kaytoue-Uberall', u'Sergei O. Kuznetsov', u'Amedeo Napoli', u'Juraj Macko', u'Wagner Meira Jr']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000667",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000667",
+"abstract": "Dans cet article, nous proposons une approche multi-agent argumentative permettant d'automatiser la résolution des conflits entre décideurs dans un système d'aide à l'identification des connaissances cruciales nommé K-DSS. En effet, des divergences concernant la crucialité des connaissances peuvent apparaître entre les décideurs et aboutir ainsi à des incohérences dans la base commune de connaissances la rendant inexploitable. Notre objectif à travers ce travail est de proposer une approche argumentative permettant de résoudre les conflits entre décideurs. Afin de concevoir cette approche, nous nous appuyons sur la théorie multi-agents pour représenter les acteurs humains par des agents logiciels connaissant leurs préférences et leurs règles de décision et pouvant ainsi argumenter leurs choix ou mettre à jour leurs croyances en fonction des arguments qu'ils reçoivent des autres agents décideurs.",
+"title": "Système multi-agent argumentatif pour la classification des connaissances cruciales",
+"placeAut": "[{u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}, {u'country': u'France', u'place': u'Amiens', u'location': {u'lat': 49.894067, u'lon': 2.2957529999999906}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "651",
+"authors": "[u'In\xe8s Saad', u'Im\xe8ne Brigui-Chtioui']"
+}

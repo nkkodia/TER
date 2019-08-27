@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000581",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000581",
+"abstract": "",
+"title": "Classification de documents en réseaux petits mondes en vue d'apprentissage",
+"placeAut": "[{u'country': u'France', u'place': u'Sfax', u'location': {u'lat': 49.266512, u'lon': 4.054566900000054}}, {u'country': u'France', u'place': u'Toulouse', u'location': {u'lat': 43.604652, u'lon': 1.4442090000000007}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "583",
+"authors": "[u'Mohamed Khazri', u'Mohamed Tmar', u'Mohand Boughanem', u'Mohamed Abid']"
+}

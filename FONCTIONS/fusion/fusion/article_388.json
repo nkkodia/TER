@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001451",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001451",
+"abstract": "",
+"title": "Apport de la technique de fouille de données spatiales dans la prédiction des risques engendrés par les changements climatiques",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Jendouba', u'location': {u'lat': 36.5, u'lon': 8.78333299999997}}, {u'country': u'Tunisie', u'place': u'Tunis', u'location': {u'lat': 36.8064948, u'lon': 10.181531599999971}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "388",
+"authors": "[u'Hana Alouaoui', u'Sami Yassine Turki', u'Sami Faiz']"
+}

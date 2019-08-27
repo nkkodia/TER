@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000449",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000449",
+"abstract": "",
+"title": "Archiview, un outil de visualisation topographique des paramètres d'un hôpital",
+"placeAut": "[{u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "779",
+"authors": "[u'Pierre P. L\xe9vy', u'Jean-Philippe Villar\xe9al', u'Pierre-Paul Couka', u'Fabrice Gallois', u'Laurence Herbin', u'Antoine Flahault']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001266",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001266",
+"abstract": "Dans cet article, nous abordons la problématique d'extraction de séquencesfréquentes à partir de corpus de textes parallèles en prenant en comptel'ordre d'apparition des mots dans une phrase. Notre finalité est d'exploiter cesséquences dans la traduction automatique (TA). Nous introduisons ainsi la notionde règles associatives inter-langues (RAIL) et nous définissons notre modèlede traduction à base de ces associations. Nous décrivons également les différentesexpérimentations conduites sur le corpus EUROPARL afin de construire àpartir des RAIL une table de traduction bilingue qui est intégrée par la suite dansun processus complet de TA.",
+"title": "Extraction des séquences fermées fréquentes à partir de corpus parallèles : Application à la traduction automatique",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Tunis', u'location': {u'lat': 36.8064948, u'lon': 10.181531599999971}}, {u'country': u'France', u'place': u'Vandoeuvre L\xe8s-Nancy', u'location': {u'lat': 48.66111799999999, u'lon': 6.173760000000016}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "428",
+"authors": "[u'Cherif Chiraz Latiri', u'Cyrine Nasri', u'Kamel Sma\xefli', u'Yahya Slimani']"
+}

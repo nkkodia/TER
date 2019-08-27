@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000823",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000823",
+"abstract": "",
+"title": "Le logiciel SYR pour l'Analyse de Données Symboliques",
+"placeAut": "[{u'country': u'France', u'place': u'Roissy', u'location': {u'lat': 49.00363, u'lon': 2.5169779999999946}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "541",
+"authors": "[u'Filipe Afonso', u'Edwin Diday', u'Wassim Khaskhoussi']"
+}

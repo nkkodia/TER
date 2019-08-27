@@ -1,0 +1,15 @@
+{
+"year": "2014",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001932",
+"pdfarticle": "",
+"abstract": "La recherche de groupes non-disjoints à partir de données non-étiquetéesest une problématique importante en classification non-supervisée. Laclassification recouvrante (Overlapping clustering) contribue à la résolution deplusieurs problèmes réels qui nécessitent la détermination de groupes qui se chevauchent.Cependant, bien que les recouvrements entre groupes soient tolérésvoire encouragés dans ces applications, il convient de contrôler leur importance.Nous proposons dans ce papier des généralisations de k-moyennes offrant lecontrôle et le paramétrage des recouvrements. Deux principes de régulation sontmis en place, ils visent à contrôler les recouvrements relativement à leur tailleet à la dispersion des classes. Les expérimentations réalisées sur des jeux dedonnées réelles, montrent l'intérêt des principes proposés.",
+"title": "Généralisation des k-moyennes pour produire des recouvrements ajustables",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Tunis', u'location': {u'lat': 36.8064948, u'lon': 10.181531599999971}}, {u'country': u'France', u'place': u'Orl\xe9ans', u'location': {u'lat': 47.902964, u'lon': 1.9092510000000402}}, {u'country': u'France', u'place': u'Caen', u'location': {u'lat': 49.182863, u'lon': -0.37067899999999554}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "108",
+"authors": "[u"Chiheb-Eddine Ben N'Cir", u'Guillaume Cleuziou', u'Nadia Essoussi']"
+}

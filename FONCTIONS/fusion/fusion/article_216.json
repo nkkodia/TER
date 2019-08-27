@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001141",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001141",
+"abstract": "Nous nous intéressons aux méthodes de classification hiérarchique oupyramidale, où chaque classe formée correspond à un concept, i.e. une paire (extension,intension), considérant des données décrites par des variables quantitativesà valeurs réelles ou intervalles, ordinales et/ou prenant la forme de distributionde probabilités/fréquences sur un ensemble de catégories. Les concepts sontobtenus par une correspondance de Galois avec généralisation par intervalles, cequi permet de traiter les données de différents types dans un cadre commun. Unemesure de la généralité d'un concept est alors calculée sous une forme communepour les différents types de variables. Un exemple illustre la méthode proposée.",
+"title": "Classification Conceptuelle avec Généralisation par Intervalles",
+"placeAut": "[{u'country': u'Portugal', u'place': u'Porto', u'location': {u'lat': 41.1579438, u'lon': -8.629105299999992}}, {u'country': u'France', u'place': u'Gif-sur-Yvette', u'location': {u'lat': 48.701844, u'lon': 2.134078000000045}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "216",
+"authors": "[u'G\xe9raldine Polaillon', u'Paula Brito']"
+}

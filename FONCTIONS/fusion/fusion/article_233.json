@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001200",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001200",
+"abstract": "Nous présentons dans cet article une nouvelle approche pour la générationautomatique de structures lexicales (ou taxonomies) à partir de textes.Cette tâche est fondée sur l'hypothèse forte selon laquelle l'accumulation defaits statistiques simples sur les usages en corpus permet d'approximer des informationsde niveau sémantique sur le lexique. Nous utilisons la prétopologiecomme cadre de travail afin de formaliser et de combiner plusieurs hypothèsessur les usages terminologiques et enfin de structurer le lexique sous la formed'une taxonomie. Nous considérons également le problème de l'évaluation destaxonomies résultantes et proposons un nouvel indice afin de les comparer et depositionner notre approche par rapport à la littérature.",
+"title": "Exploitation de l'asymétrie entre termes pour l'extraction automatique de taxonomies à partir de textes",
+"placeAut": "[{u'country': u'France', u'place': u'Orl\xe9ans', u'location': {u'lat': 47.902964, u'lon': 1.9092510000000402}}, {u'country': u'France', u'place': u'Caen', u'location': {u'lat': 49.182863, u'lon': -0.37067899999999554}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "233",
+"authors": "[u'Davide Buscaldi', u'Guillaume Cleuziou', u'Ga\xebl Dias', u'Vincent Levorato']"
+}

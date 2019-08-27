@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001435",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001435",
+"abstract": "",
+"title": "Utilisation de graphes sémantiques pour l'extraction et la traduction des idées essentielles d'un texte",
+"placeAut": "[{u'country': u'France', u'place': u'Vandoeuvre L\xe8s-Nancy', u'location': {u'lat': 48.66111799999999, u'lon': 6.173760000000016}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "486",
+"authors": "[u'Romain Andr\xe9-Lovichi', u'Kamel Sma\xefli', u'David Langlois']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2004",
+"metaSession": "1",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000916",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000916",
+"abstract": "",
+"title": "Cartographie sémantique des connaissances à la carte",
+"placeAut": "[{u'country': u'France', u'place': u'Le-Bourget-du-Lac', u'location': {u'lat': 45.649392, u'lon': 5.859075999999959}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1038",
+"authors": "[u'Christophe Tricot', u'Cristophe Roche']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000433",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000433",
+"abstract": "",
+"title": "Comparaison des mammographies par des méthodes d'apprentissage",
+"placeAut": "[{u'country': u'France', u'place': u'Bron', u'location': {u'lat': 45.73331599999999, u'lon': 4.9119269999999915}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "795",
+"authors": "[u'Irina Diana Coman', u'Djamel Abdelkader Zighed']"
+}

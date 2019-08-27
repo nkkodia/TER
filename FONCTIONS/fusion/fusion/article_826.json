@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000398",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000398",
+"abstract": "La synthèse en chimie organique consiste à concevoir de nouvellesmolécules à partir de réactifs et de réactions. Les experts de la synthèse s'appuientsur de très grandes bases de données de réactions qu'ils consultent à traversdes procédures d'interrogation standard. Un processus de découverte denouvelles réactions leur permettrait de mettre au point de nouveaux procédés desynthèse. Cet article présente une modélisation des réactions par des graphes etintroduit une méthode de fouille de ces graphes de réaction qui permet de faireémerger des motifs génériques utiles à la prédiction de nouvelles réactions. Enfinl'article fait le point sur l'état actuel de ce travail de recherche en présentantle modèle général dans lequel s'intégrera un nouvel algorithme de fouille deréactions chimiques.",
+"title": "La fouille de graphes dans les bases de données réactionnelles au service de la synthèse en chimie organique",
+"placeAut": "[{u'country': u'France', u'place': u'Vand\x9cuvre-l\xe8s-Nancy', u'location': {u'lat': 48.66111799999999, u'lon': 6.173760000000016}}, {u'country': u'France', u'place': u'Metz', u'location': {u'lat': 49.1193089, u'lon': 6.1757155999999895}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "826",
+"authors": "[u'Fr\xe9d\xe9ric Pennerath', u'Amedeo Napoli']"
+}

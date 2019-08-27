@@ -1,0 +1,15 @@
+{
+"year": "2006",
+"metaSession": "2",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000378",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000378",
+"abstract": "L'obtention d'une classification des pages d'un site web en fonctiondes navigations extraites des fichiers logs du serveur peut s'avérer très utilepour évaluer l'adéquation entre la structure du site et l'attente des utilisateurs. Onconstruit une telle typologie en s'appuyant une mesure de dissimilarité entre lespages, définie à partir des navigations. Le choix de la mesure la plus appropriéeà l'analyse du site est donc fondamental. Dans cet article, nous présentons unsite de petite taille dont les pages sont classées en catégories sémantiques parun expert. Nous confrontons ce classement aux partitions obtenues à partir dediverses dissimilarités afin d'en étudier les avantages et inconvénients.",
+"title": "Comparaison de dissimilarités pour l'analyse de l'usage d'un site web",
+"placeAut": "[{u'country': u'France', u'place': u'Le-Chesnay', u'location': {u'lat': 48.82541500000001, u'lon': 2.1305439999999862}}, {u'country': u'Br\xe9sil', u'place': u'Recife', u'location': {u'lat': -8.0578381, u'lon': -34.88289689999999}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.62925, u'lon': 3.057256}",
+"place": "Lille",
+"booktitle": "EGC",
+"idArt": "794",
+"authors": "[u'Fabrice Rossi', u'Francisco de Assis Ten\xf3rio de Carvalho', u'Yves Lechevallier', u'Alzennyr Da Silva']"
+}

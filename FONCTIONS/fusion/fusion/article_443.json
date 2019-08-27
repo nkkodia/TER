@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001501",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001501",
+"abstract": "La majorité des modèles de langue appliqués à la recherched'information repose sur l'hypothèse d'indépendance des mots.Plus précisément, ces modèles sont estimés à partir des mots simplesapparaissant dans les documents sans considérer les éventuelles relationssémantiques et conceptuelles. Pour pallier ce problème, deux grandesapproches ont été explorées : la première intègre des dépendances d'ordresurfacique entre les mots, et la seconde repose sur l'utilisation des ressourcessémantiques pour capturer les dépendances entre les mots. Le modèle delangue que nous présentons dans cet article s'inscrit dans la seconde approche.Nous proposons d'intégrer les dépendances entre les mots en représentant lesdocuments et les requêtes par les concepts.",
+"title": "Modèle de Langue à base de Concepts pour la Recherche d'Information",
+"placeAut": "[{u'country': u'Alg\xe9rie', u'place': u'Alger', u'location': {u'lat': 36.752887, u'lon': 3.0420480000000225}}, {u'country': u'France', u'place': u'Toulouse', u'location': {u'lat': 43.604652, u'lon': 1.4442090000000007}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "443",
+"authors": "[u"Lynda Said L'Hadj", u'Mohand Boughanem']"
+}

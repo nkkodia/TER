@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000214",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000214",
+"abstract": "",
+"title": "Modèles de Markov cachés pour l'estimation de plusieurs fréquences fondamentales",
+"placeAut": "[{u'country': u'France', u'place': u'Fontainebleau', u'location': {u'lat': 48.40467599999999, u'lon': 2.701620000000048}}, {u'country': u'\xc9tats-Unis ', u'place': u'Berkeley', u'location': {u'lat': 37.8715926, u'lon': -122.27274699999998}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "908",
+"authors": "[u'Francis Bach ', u'Michael I. Jordan']"
+}

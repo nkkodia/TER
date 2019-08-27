@@ -1,0 +1,15 @@
+{
+"year": "2004",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000994",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000994",
+"abstract": "",
+"title": "Sélection d'attributs et classification d'objets complexes",
+"placeAut": "[{u'country': u'France', u'place': u'Illkirch', u'location': {u'lat': 48.52854, u'lon': 7.711010999999985}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 45.77722199999999, u'lon': 3.087025}",
+"place": "Clermont-Ferrand",
+"booktitle": "EGC",
+"idArt": "1092",
+"authors": "[u'Alexandre Blansch\xe9', u'Pierre Gan\xe7arski']"
+}

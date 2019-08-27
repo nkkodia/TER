@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000656",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000656",
+"abstract": "Nous présentons dans cet article un système informatique pour le traitement des plaintes en lien avec des situations de pollution domestique écrites en français. Après la construction automatique d'une base de scenarii de plaintes, un module de recherche apparie la plainte à traiter à la thématique de la plainte la plus similaire. Enfin, il s'agit d'assigner au problème courant la solution correspondante au scénario de pollution auquel est affectée la plainte pertinente. Nous montrons ici l'intérêt de l'introduction dans l'appariement des textes de l'aspect sémantique géré par un dictionnaire généraliste de synonymes et en quoi il n'est pas réalisable pour notre problème particulier de construire une ontologie.",
+"title": "Assignation automatique de solutions à des classes de plaintes liées aux ambiances intérieures polluées",
+"placeAut": "[{u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}, {u'country': u'France', u'place': u'Marne-la-Vall\xe9e', u'location': {u'lat': 48.859276, u'lon': 2.598504999999932}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "579",
+"authors": "[u'Zoulikha Heddadji', u'Nicole Vincent', u'S\xe9verine Kirchner', u'Georges Stamon']"
+}

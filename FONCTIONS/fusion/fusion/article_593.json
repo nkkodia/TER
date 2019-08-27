@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000588",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000588",
+"abstract": "Dans nombre d'applications, les données présentent un déséquilibre entre les classes. La prédiction est alors souvent détériorée pour la classe minoritaire. Pour contourner cela, nous proposons un échantillonnage guidé, lors des itérations successives d'une forêt aléatoire, par les besoins de l'utilisateur.",
+"title": "Echantillonnage adaptatif de jeux de données déséquilibrés pour les forêts aléatoires",
+"placeAut": "[{u'country': u'France', u'place': u'Lyon', u'location': {u'lat': 45.764043, u'lon': 4.835658999999964}}, {u'country': u'France', u'place': u'Bron', u'location': {u'lat': 45.73331599999999, u'lon': 4.9119269999999915}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "593",
+"authors": "[u'Elie Prudhomme', u'Julien Thomas', u'Pierre-Emmanuel Jouve']"
+}

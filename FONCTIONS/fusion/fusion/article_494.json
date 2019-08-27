@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000774",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000774",
+"abstract": "Nous présentons dans cet article le système Skin3D qui implémentetous les composants matériels et logiciels nécessaires pour extraire desinformations dans des images 3D de peau. Il s'agit à la fois du matérield'éclairage et d'acquisition à base d'appareils photographiquesstéréoscopiques, d'une méthode de calibration de caméras utilisant lesalgorithmes génétiques, de matériel de réalité virtuelle pour restituer lesimages en stéréoscopie et interagir avec elles, et enfin d'un ensemble defonctionnalités interactives pour annoter les images, partager ces annotations etconstruire un hypermédia 3D. Nous présentons une étude comparativeconcernant la calibration et une application réelle de Skin3D sur des images devisages.",
+"title": "Acquisition, annotation et exploration interactive d'images stéréoscopiques en réalité virtuelle : application en dermatologie",
+"placeAut": "[{u'country': u'France', u'place': u'Tours', u'location': {u'lat': 47.394144, u'lon': 0.6848400000000083}}, {u'country': u'France', u'place': u'Neuilly sur Seine', u'location': {u'lat': 48.884831, u'lon': 2.268509999999992}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "494",
+"authors": "[u'Mohammed Haouach', u'Karim Benzeroual', u'Christiane Guinot', u'Gilles Venturini']"
+}

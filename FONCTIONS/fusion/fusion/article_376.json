@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001439",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001439",
+"abstract": "De nombreux systèmes de recommandation se focalisent sur les articles(que nous appellerons items) les plus populaires et ignorent souventla longue traîne des produits qui le sont moins. Nous proposons l'algorithmeAbsTop-k&#945; qui améliore les recommandations en se basant sur la combinaison(pondérée par &#945;) de paires hautement corrélées entre des abstractions d'items etentre des paires d'items concrets classiquement recherchées.",
+"title": "AbsTop-K &#945;: un algorithme d'extraction de paires abstraites hautement corrélées pour mieux recommander dans la longue traine",
+"placeAut": "[{u'country': u'France', u'place': u'Bobigny', u'location': {u'lat': 48.908612, u'lon': 2.439711999999986}}, {u'country': u'France', u'place': u'Bondy', u'location': {u'lat': 48.906008, u'lon': 2.4818749999999454}}, {u'country': u'Vietnam', u'place': u'Ha Noi', u'location': {u'lat': 21.0277644, u'lon': 105.83415979999995}}, {u'country': u'France', u'place': u'Paris', u'location': {u'lat': 48.856614, u'lon': 2.3522219000000177}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "376",
+"authors": "[u'Minh Thu Tran Nguyen', u'Fran\xe7ois Semp\xe9', u'Jean-Daniel Zucker']"
+}

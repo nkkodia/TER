@@ -1,0 +1,15 @@
+{
+"year": "2014",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001980",
+"pdfarticle": "",
+"abstract": "L'article propose une approche formelle de fusion d'ontologies se reposantsur les grammaires de graphes typés. Elle se décompose en trois étapes :1) la recherche de similarités entre concepts ; 2) la fusion des ontologies parl'approche algébrique SPO (Simple Push Out) ; 3) l'adaptation d'une ontologieglobale par le biais de règles de réécriture de graphes. Contrairement aux solutionsexistantes, cette méthode offre une représentation formelle de la fusiond'ontologies ainsi qu'une implémentation fonctionnelle basée sur l'outil AGG.",
+"title": "Approche formelle de fusion d'ontologies à l'aide des grammaires de graphes typés",
+"placeAut": "[{u'country': u'France', u'place': u'Mulhouse', u'location': {u'lat': 47.750839, u'lon': 7.335888000000068}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.117266, u'lon': -1.6777926}",
+"place": "Rennes",
+"booktitle": "EGC",
+"idArt": "76",
+"authors": "[u'Mariem Mahfoudh', u'Germain Forestier', u'Laurent Thiry', u'Michel Hassenforder']"
+}

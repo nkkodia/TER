@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001231",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001231",
+"abstract": "Le diagnostic de territoire constitue une étape obligatoire dans toutprojet d'aménagement ou dans toute volonté politique de modifier durablementl'espace. Les décideurs politiques doivent avoir une vision objective des actionsà mener en fondant leurs réflexions sur des études et des documents ;qu'ils soient à caractère géographique ou non. Il est donc fondamentald'améliorer l'accès et la consultation, par les décideurs stratégiques, de ce quel'on peut appeler des documents géographiques. Le but de cet article est deprésenter certains concepts et solutions technologiques qui peuvent être utilisésafin de mieux organiser, de naviguer (dans) et de visualiser ces documents. Ilpropose une mise en perspective commune de certaines de ces approches, surlaquelle est fondée la conception d'une première maquette d'un outil de visualisation(et de navigation) de documents géographiques nommé GEOdoc.",
+"title": "L'intelligence collective géospatiale au service du diagnostic de territoire : GEOdoc",
+"placeAut": "[{u'country': u'Canada', u'place': u'Laval', u'location': {u'lat': 45.6066487, u'lon': -73.71240899999998}}, {u'country': u'France', u'place': u'Saint Mand\xe9', u'location': {u'lat': 48.84283199999999, u'lon': 2.4178638999999293}}, {u'country': u'Canada', u'place': u'Sherbrooke', u'location': {u'lat': 45.4009928, u'lon': -71.88242880000001}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC",
+"idArt": "623",
+"authors": "[u'St\xe9phane Roche', u'Benoit Kiene', u'Claude Caron']"
+}

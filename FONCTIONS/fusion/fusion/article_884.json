@@ -1,0 +1,15 @@
+{
+"year": "2005",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000255",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000255",
+"abstract": "",
+"title": "Entrepôts de données sur grilles de calcul",
+"placeAut": "[{u'country': u'France', u'place': u'Villeurbanne', u'location': {u'lat': 45.771944, u'lon': 4.89017089999993}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.856614, u'lon': 2.3522219}",
+"place": "Paris",
+"booktitle": "AEGC",
+"idArt": "884",
+"authors": "[u'Pascal Wehrle', u'Maryvonne Miquel', u' Anne Tchounikine']"
+}

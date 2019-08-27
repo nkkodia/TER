@@ -1,0 +1,15 @@
+{
+"year": "2008",
+"metaSession": "3",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000639",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000639",
+"abstract": "Cet article porte sur l'analyse de parcours de vie représentés sous forme de séquences d'événements. Plus spécifiquement, on examine les possibilités d'exploiter des codages de type n-grammes de ces séquences pour en extraire des connaissances. En fait, compte tenu de la simultanéité de certains événements, une procédure stricte de n-grammes comme on peut par exemple l'appliquer sur des textes, n'est pas applicable ici. Nous discutons diverses alternatives qui s'avèrent finalement plus proches de la fouille de séquences fréquentes. Les concepts discutés sont illustrés sur des données de l'enquête biographique rétrospective réalisée par le Panel suisse de ménages en 2002. Enfin, on précisera sur quels aspects l'approche proposée peut apporter un éclairage complémentaire utile par rapport à d'autres techniques plus classiques d'analyse exploratoire de parcours de vie.",
+"title": "Approches de type n-grammes pour l'analyse de parcours de vie familiaux",
+"placeAut": "[{u'country': u'Suisse', u'place': u'Gen\xe8ve', u'location': {u'lat': 46.1983922, u'lon': 6.142296100000067}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 43.6163539, u'lon': 7.0552218}",
+"place": "Sophia Antipolis",
+"booktitle": "EGC ",
+"idArt": "578",
+"authors": "[u'Matthias Studer', u'Alexis Gabadinho', u'Nicolas S. M\xfcller', u'Gilbert Ritschard']"
+}

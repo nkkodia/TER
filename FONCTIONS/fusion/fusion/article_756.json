@@ -1,0 +1,15 @@
+{
+"year": "2007",
+"metaSession": "9",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001312",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001312",
+"abstract": "En fouille de règles, certaines situations exceptionnelles défient le bon sens. C'est le cas de la règle R : a --> c et b --> c et (a et b) --> non c. Une telle règle, que nous étudions dans l'article, est appelée règle d'exception. A la suite des travaux précurseurs de E. Suzuki et Y. Kodratoff (1999), qui ont étudié un autre type de règle d'exception, nous cherchons ici à caractériser les conditions d'apparition de la règle R dans le cadre de l'Analyse Statistique Implicative.",
+"title": "Une règle d'exception en Analyse Statistique Implicative",
+"placeAut": "[{u'country': u'France', u'place': u'Nantes', u'location': {u'lat': 47.218371, u'lon': -1.553621000000021}}, {u'country': u'Japon', u'place': u'Kyushu', u'location': {u'lat': 33.0, u'lon': 131.0}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "756",
+"authors": "[u'R\xe9gis Gras', u'Pascale Kuntz', u'Einoshin Suzuki']"
+}

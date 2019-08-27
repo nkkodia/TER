@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "4",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000734",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000734",
+"abstract": "L'objecif de cet article est de faire de la carte auto-organisatrice hiérarchique(GHSOM) un outil utilisable dans le cadre d'une démarche d'analyseexploratoire de données. La visualisation globale est un outil indispensable pourrendre les résultats d'une segmentation intelligibles pour un utilisateur. Nousproposons donc différents outils de visualisation pour la GHSOM équivalents àceux de la SOM.",
+"title": "La carte GHSOM comme alternative à la SOM pour l'analyse exploratoire de données",
+"placeAut": "[{u'country': u'France', u'place': u'Lannion', u'location': {u'lat': 48.732084, u'lon': -3.4591440000000375}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "539",
+"authors": "[u'Fran\xe7oise Fessant', u'Fabrice Cl\xe9rot', u'Pascal Gouzien']"
+}

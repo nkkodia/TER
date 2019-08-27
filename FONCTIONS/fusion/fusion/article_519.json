@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "5",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000818",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000818",
+"abstract": "",
+"title": "DEMON-Visualisation : un outil pour la visualisation des motifs séquentiels extraits à partir de données biologiques",
+"placeAut": "[{u'country': u'France', u'place': u'Montpellier', u'location': {u'lat': 43.610769, u'lon': 3.8767159999999876}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "519",
+"authors": "[u'Wei Xing', u'Paola Salle', u'Sandra Bringay', u'Maguelonne Teisseire']"
+}

@@ -1,0 +1,15 @@
+{
+"year": "2015",
+"metaSession": "6",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1002081",
+"pdfarticle": "",
+"abstract": "Dans cet article, nous nous intéressons à la recherche des points les plus intéressants au sens de l'ordre de Pareto, dans les bases de données évidentielles. Nous présentons le modèle skyline évidentiel qui est adapté à la nature des données incertaines. Ensuite, nous présentons une évaluation expérimentale de notre approche.",
+"title": "Requêtes Skyline en présence des données évidentielles",
+"placeAut": "[{u'country': u'Tunisie', u'place': u'Tunis', u'location': {u'lat': 36.8064948, u'lon': 10.181531599999971}}, {u'country': u'France', u'place': u'Lyon', u'location': {u'lat': 45.764043, u'lon': 4.835658999999964}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 49.815273, u'lon': 6.129582999999999}",
+"place": "Luxembourg",
+"booktitle": "EGC",
+"idArt": "51",
+"authors": "[u'Sayda Elmi', u'Karim Benouaret', u'Allel HadjAli', u'Mohamed Anis Bach Tobji', u'Boutheina Ben Yaghlane']"
+}

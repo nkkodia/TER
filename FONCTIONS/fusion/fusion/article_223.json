@@ -1,0 +1,15 @@
+{
+"year": "2012",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001205",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001205",
+"abstract": "",
+"title": "Clustering multi-niveaux de graphes : hiérarchique et topologique",
+"placeAut": "[{u'country': u'France', u'place': u'Villetaneuse', u'location': {u'lat': 48.963476, u'lon': 2.3473539999999957}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 44.837789, u'lon': -0.57918}",
+"place": "Bordeaux",
+"booktitle": "EGC",
+"idArt": "223",
+"authors": "[u'Nhat-Quang Doan', u'Hanane Azzag', u'Mustapha Lebbah']"
+}

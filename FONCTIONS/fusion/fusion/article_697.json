@@ -1,0 +1,15 @@
+{
+"year": "2007",
+"metaSession": "8",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001434",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001434",
+"abstract": "La manière dont une visite est réalisée sur un site Web peut changer en raison de modifications liées à la structure et au contenu du site lui-même, ou bien en raison du changement de comportement de certains groupes d'utilisateurs ou de l'émergence de nouveaux comportements. Ainsi, les modèles associés à ces comportements dans la fouille d'usage du Web doivent être mis à jour continuellement afin de mieux refléter le comportement actuel des internautes. Une solution, proposée dans cet article, est de mettre à jour ces modèles à l'aide des résumés obtenus par une approche évolutive des méthodes de classification.",
+"title": "Construction et analyse de résumés de données évolutives : application aux données d'usage du Web",
+"placeAut": "[{u'country': u'France', u'place': u'Le Chesnay', u'location': {u'lat': 48.82541500000001, u'lon': 2.1305439999999862}}, {u'country': u'Br\xe9sil', u'place': u'Recife', u'location': {u'lat': -8.0578381, u'lon': -34.88289689999999}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 50.4673883, u'lon': 4.8719854}",
+"place": "Namur",
+"booktitle": "EGC",
+"idArt": "697",
+"authors": "[u'Alzennyr Da Silva', u'Yves Lechevallier', u'Fabrice Rossi', u'Francisco de Assis Ten\xf3rio de Carvalho']"
+}

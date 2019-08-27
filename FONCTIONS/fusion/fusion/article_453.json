@@ -1,0 +1,15 @@
+{
+"year": "2010",
+"metaSession": "",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1001407",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1001407",
+"abstract": "",
+"title": "Proposition d'opérateurs OLAP pour un modèle multidimensionnel à base d'objets complexes",
+"placeAut": "[{u'country': u'Alg\xe9rie', u'place': u'Alger', u'location': {u'lat': 36.752887, u'lon': 3.0420480000000225}}, {u'country': u'France', u'place': u'Bron', u'location': {u'lat': 45.73331599999999, u'lon': 4.9119269999999915}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 36.4, u'lon': 10.616667}",
+"place": "Hammamet",
+"booktitle": "EGC",
+"idArt": "453",
+"authors": "[u'Doulkifli Boukra\xe2', u'Omar Boussaid']"
+}

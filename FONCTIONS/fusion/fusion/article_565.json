@@ -1,0 +1,15 @@
+{
+"year": "2009",
+"metaSession": "0",
+"pdf1page": "http://editions-rnti.fr/render_pdf.php?p1&p=1000807",
+"pdfarticle": "http://editions-rnti.fr/render_pdf.php?p=1000807",
+"abstract": "",
+"title": "Un système pour l'extraction de corrélations linéaires dans des données de génomique médicale",
+"placeAut": "[{u'country': u'France', u'place': u'Bobigny', u'location': {u'lat': 48.908612, u'lon': 2.439711999999986}}]",
+"series": "Revue des Nouvelles Technologies de l'Information",
+"location": "{u'lat': 48.5734053, u'lon': 7.752111299999999}",
+"place": "Strasbourg",
+"booktitle": "EGC",
+"idArt": "565",
+"authors": "[u'Arriel Benis', u'M\xe9lanie Courtine']"
+}
